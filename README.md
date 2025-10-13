@@ -1,2 +1,2 @@
-# MasterThesis
-Repository containing notes regarding: Symmetry-protected Topological Order (SPTO), Dualities, Gauging, etc.. 
+# Welcome
+This repository contains notes associated to my Master's thesis on the topic of 'One-dimesional Symmmetry Protected Topological Order'. 
