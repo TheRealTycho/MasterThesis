@@ -5,9 +5,9 @@ These notes aim to provide both a pedagogical introduction and to set notation. 
 
 Topics covered include:
 $$
-\begin{item}
+\begin{itemize}
   \item Generalized Cluster States
   \item Gauging on the (1D) lattice
   \items and much more...
-\end{item}
+\end{itemize}
 $$
