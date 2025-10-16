@@ -9,4 +9,8 @@ Topics covered include:
 - Gauging on the (1D) lattice
 - and much more...
 
+Appenix material:
+
+- (small) non-Abelian groups and their representation theory
+- ...
 
