@@ -14,3 +14,16 @@ Appenix material:
 - (small) non-Abelian groups and their representation theory
 - ...
 
+
+TODO:
+
+- L-symbols for Z2xZ2
+- L-symbols for Rep(D3)=Rep(S3)
+- Interface Algebras: is this neccessary?
+- SOP for Rep(D3)
+
+- Gauging+duality map for Z2 => KW duality
+- Gauging+duality map for G => GxG SSB to GxRep(G) GCS
+
+- REFERENCING!!!
+
