@@ -22,8 +22,10 @@ TODO:
 - Interface Algebras: is this neccessary?
 - SOP for Rep(D3)
 
-- Gauging+duality map for Z2 => KW duality
-- Gauging+duality map for G => GxG SSB to GxRep(G) GCS
+- Gauging+duality map for Z2 => KW duality :copy from physical to virtual
+- Gauging+duality map for G => GxG SSB to GxRep(G) GCS: just copy from physical to virtual
+
+- numerically determining the GCGCs?
 
 - REFERENCING!!!
 
