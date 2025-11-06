@@ -4,24 +4,25 @@ This repository contains notes associated to my Master's thesis for the AY 2025/
 These notes aim to provide both a pedagogical introduction and to set notation. After the groundwork is done, I aim add more detail so that eventually I can use these as review material/ inspiration for the thesis itself.
 
 Topics covered include:
-
+- 
 - Generalized Cluster States
 - Gauging on the (1D) lattice
-- and much more...
+- Generalized Transverse Field Ising model
+- String Order Paramters, and Interface Algebras
 
 Appenix material:
-
+- 
 - (small) non-Abelian groups and their representation theory
 - ...
 
+Ideas:
+-
 
 TODO:
-
+- Classification of SPTs based on G-symmetry => cocycles,...
 - L-symbols for Z2xZ2
 - L-symbols for Rep(D3)=Rep(S3)
-- Interface Algebras: is this neccessary?
 - SOP for Rep(D3)
-
 - Gauging+duality map for Z2 => KW duality :copy from physical to virtual
 - Gauging+duality map for G => GxG SSB to GxRep(G) GCS: just copy from physical to virtual
 
