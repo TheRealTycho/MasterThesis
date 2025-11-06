@@ -10,7 +10,7 @@ Topics covered include:
 - Generalized Transverse Field Ising model
 - String Order Paramters, and Interface Algebras
 
-Appenix material:
+Appendix material:
 - 
 - (small) non-Abelian groups and their representation theory
 - ...
