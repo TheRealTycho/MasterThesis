@@ -23,8 +23,6 @@ TODO:
 - L-symbols for Z2xZ2
 - L-symbols for Rep(D3)=Rep(S3)
 - SOP for Rep(D3)
-- Gauging+duality map for Z2 => KW duality :copy from physical to virtual
-- Gauging+duality map for G => GxG SSB to GxRep(G) GCS: just copy from physical to virtual
 
 - numerically determining the GCGCs?
 
