@@ -13,10 +13,12 @@ Topics covered include:
 Appendix material:
 - 
 - (small) non-Abelian groups and their representation theory
-- ...
+-  
 
 Ideas:
--
+- Appendix: Projective representations, Cohomology
+- Appendix: Category theory for Phycisists
+- 
 
 TODO:
 - Classification of SPTs based on G-symmetry => cocycles,...
