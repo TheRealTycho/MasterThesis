@@ -8,7 +8,9 @@ Topics covered include:
 - Generalized Cluster States
 - Gauging on the (1D) lattice
 - Generalized Transverse Field Ising model
-- String Order Paramters, and Interface Algebras
+- String Order Paramters
+- Interface Algebras
+- Group-based SPTOs
 
 Appendix material:
 - 
@@ -21,8 +23,6 @@ Ideas:
 - 
 
 TODO:
-- Classification of SPTs based on G-symmetry => cocycles,...
-- L-symbols for Z2xZ2
 - L-symbols for Rep(D3)=Rep(S3)
 - SOP for Rep(D3)
 
