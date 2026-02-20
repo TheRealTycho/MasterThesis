@@ -13,25 +13,14 @@ Topics covered include:
 - Group-based SPTOs
 
 Appendix material:
-- 
-- (small) non-Abelian groups and their representation theory
--  
-
-Ideas:
-- Appendix: Projective representations, Cohomology
-- Appendix: Category theory for Phycisists
-- 
+- Gauging
+- construction of SOPs and MOPs
+- interface algebras
+- symmetry interpolation 
 
 TODO:
-- L-symbols for Rep(D3)=Rep(S3)(later)
-- SOP for Rep(D3)(later)
-
-- numerically determining the GCGCs?=> This might be (very) hard
-
-- REFERENCING!!!=> Improving
-
-- Proof for the Statement: Given that the Interface Algebra between phases L and R has no one-dimensional representations, conclude that L and R are different phases. (Proof by Contradiction?)
-
-- (2+1)d Cluster State: Edge/Interface modes? + GS Degeneracy, String vs Sheet/Surface/Membrane Order Parameter, Topological response+Thouless Pump
-- Family of $G$-cluster states by repeated action of preparation/construction circuit
-- MBQC on the (2+1)d $G$-cluster state?
+- read https://www.scipost.org/SciPostPhys.19.2.054/pdf
+- gauge subgroups, form of disentangler
+- write down Hamiltonians for SSB: G --> H
+- small groups and their exact factorization(s)
+- 
