@@ -26,4 +26,4 @@ TODO + (interesting?) questions:
 - 
 
 - Write down some Hamiltonians for the models you wish to study as examples
-- 
+- take a look at: https://arxiv.org/pdf/2405.15951 https://arxiv.org/pdf/1912.02817  https://arxiv.org/pdf/2509.04581
