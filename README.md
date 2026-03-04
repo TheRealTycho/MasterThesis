@@ -19,7 +19,7 @@ Appendix material:
 - symmetry interpolation 
 
 TODO + (interesting?) questions:
-- (0+1)d interface algebra: Tikz figures + externalize, examples: $$ \mathbb{Z}_2 \times \mathbb{Z}_2$$-cluster state, $$\textbf{Rep}(D_8$$-SPTs, self-interfaces
+- (0+1)d interface algebra: Tikz figures + externalize, examples: $$ \mathbb{Z}_2 \times \mathbb{Z}_2 $$-cluster state, $$ \textbf{Rep}(D_8) $$-SPTs, self-interfaces
 
 - Write down some Hamiltonians for the models you wish to study as examples
 - take a look at: https://arxiv.org/pdf/2405.15951 https://arxiv.org/pdf/1912.02817  https://arxiv.org/pdf/2509.04581
