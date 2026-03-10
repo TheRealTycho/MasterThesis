@@ -24,3 +24,7 @@ TODO + (interesting?) questions:
 - Write down some Hamiltonians for the models you wish to study as examples
 - title of thesis
 - preliminiaries section
+
+
+- Relation between interface algebra and duality defects?
+- Construction of $$\mathcal{C}$$-SPT models, where $$\mathcal{C}$$ is non-group theoretical with goal of explaining why discrepency, regarding dimensions, in classification
