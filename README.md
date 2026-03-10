@@ -19,10 +19,8 @@ Appendix material:
 - symmetry interpolation 
 
 TODO + (interesting?) questions:
-- (0+1)d interface algebra: Tikz figures + externalize, examples: $$ G $$-SPTs, $$G \times \text{Rep}(G) $$-SPT
+- (0+1)d interface algebra: examples: $$ G $$-SPTs, $$G \times \text{Rep}(G) $$-SPT
 
 - Write down some Hamiltonians for the models you wish to study as examples
-- take a look at: https://arxiv.org/pdf/2405.15951 https://arxiv.org/pdf/1912.02817  https://arxiv.org/pdf/2509.04581
-- get familiar with (1+1)d interface modes of (2+1)d SPT phases
 - title of thesis
 - preliminiaries section
