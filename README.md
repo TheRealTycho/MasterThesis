@@ -25,6 +25,4 @@ TODO + (interesting?) questions:
 - title of thesis
 - preliminiaries section
 
-
-- Relation between interface algebra and duality defects?
 - Construction of $$\mathcal{C}$$-SPT models, where $$\mathcal{C}$$ is non-group theoretical with goal of explaining why discrepency, regarding dimensions, in classification
