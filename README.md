@@ -26,3 +26,5 @@ TODO + (interesting?) questions:
 - preliminiaries section
 
 - Construction of $$\mathcal{C}$$-SPT models, where $$\mathcal{C}$$ is non-group theoretical with goal of explaining why discrepency, regarding dimensions, in classification
+- Boundaries are intersesting for MBQC: https://arxiv.org/abs/2107.04019 
+- Preparation for "families of states" section: https://arxiv.org/pdf/2110.10665 https://arxiv.org/pdf/2007.11215 https://arxiv.org/pdf/2112.07748 
